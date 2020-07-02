@@ -1,0 +1,24 @@
+
+*{margin: 0;
+padding: 0;}
+img{max-width: 100%;}
+
+.navbar-brand{max-width:40px; }
+
+.banaer-section{background-image: url(../image/lap.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: center;
+				background-color:#0000008f;
+				background-blend-mode: color;
+				}
+			h1{color:#fff;
+				font-size:40px;
+				font-weight: 600;}
+				p{color: #fff;}
+				h3{color:#fff;}
+				/*.label{color: #fff;}*/
+				.pp{color: black;
+					padding-top: 15px;
+					font-size: 12px;}
+			
